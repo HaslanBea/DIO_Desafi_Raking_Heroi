@@ -3,7 +3,7 @@
 # 🏆 Calculadora de Partidas Rankeadas
 
 <p align="center">
-  <img src="./img/heroi-gatinho.png" alt="Herói Gatinho Medieval" width="300">
+  <img src="./img/magocat.jpeg" alt="Herói Gatinho Medieval" width="300">
 </p>
 
 ## 🎮 Descrição do Projeto
