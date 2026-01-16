@@ -14,6 +14,8 @@ A aplicação simula uma **calculadora de partidas ranqueadas**, responsável po
 
 > ⚔️ Até mesmo um herói (ou um gatinho medieval corajoso 🐱🛡️) precisa saber seu verdadeiro rank!
 
+![Herói Gatinho Medieval](./img/cat-heroi.jpeg)
+
 ---
 
 ## 🎯 Objetivo do Desafio
